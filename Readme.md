@@ -9,8 +9,8 @@ This repository contains clear and simple Python implementations of various Data
 ## 📂 Repository File Overview
 ## LAB FILE
 
-| File Name               | Description | Last Commit Message | 
-|------------------------|-------------|----------------------|
+| File Name               | Description | Last Commit Message |
+|------------------------|-------------|----------------------
 | **AllCodes.py**        | Consolidated file containing implementations of multiple DSA programs. 
 | **BrowserHistory.py**  | Simulates browser history navigation using stack operations.
 | **CircularLinkedList.py** | Implements circular linked list with insertion and deletion operations. 
