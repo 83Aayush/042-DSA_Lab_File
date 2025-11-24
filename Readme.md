@@ -8,7 +8,7 @@ This repository contains clear and simple Python implementations of various Data
 ---
 
 ## 📂 Repository File Overview
-## LAB FILE
+## LAB TASKS 
 
 | File Name               | Description |
 |------------------------|-------------|
@@ -20,4 +20,8 @@ This repository contains clear and simple Python implementations of various Data
 | **SinglyLinkedList.py** | Singly linked list implementation with search and insertion operations. |
 | **StackOperations.py** | Basic stack implementation (push, pop, display). |
 | **Stock.py**           | Stock tracking / inventory stock management program. |
+
+
+## ASSIGNMENTS
+
 
