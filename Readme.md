@@ -22,6 +22,15 @@ This repository contains clear and simple Python implementations of various Data
 | **Stock.py**           | Stock tracking / inventory stock management program. |
 
 
-## ASSIGNMENTS
+# 📝 **Assignments Section**
+
+Below are the assignment programs included in this repository:
+
+| File Name                     | Description |
+|------------------------------|-------------|
+| **CampusManagementSystem.py** | Program to manage basic campus-related functionalities. |
+| **LibraryBook.py**            | Library book record handling and management system. |
+| **WeatherStorage.py**         | Application for storing and processing weather data. |
+
 
 
